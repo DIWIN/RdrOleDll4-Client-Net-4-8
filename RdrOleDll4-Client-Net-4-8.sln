@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdrOleDll4-Client-Net-4-8", "RdrOleDll4-Client-Net-4-8.csproj", "{DD42A066-B8A4-47AE-B124-AB7EA2101BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD42A066-B8A4-47AE-B124-AB7EA2101BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD42A066-B8A4-47AE-B124-AB7EA2101BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD42A066-B8A4-47AE-B124-AB7EA2101BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD42A066-B8A4-47AE-B124-AB7EA2101BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF79E5D1-69D3-4A73-A922-905516C5239E}
+	EndGlobalSection
+EndGlobal
